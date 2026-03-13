@@ -1,4 +1,4 @@
-# {PROJECT HADES: INTERLOCK AUTOMATION}
+# Project HADES: Interlock Automation
 
 ## Overview
 
